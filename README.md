@@ -1,6 +1,5 @@
 # Ionic-Vite-React-Tailwind-KonstaUI Starter Kit
 
-![Project Logo](https://your-project-logo-url.com)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -81,7 +80,7 @@ ionic-vite-react-tailwind-konstaui-starter/
 
 Customize and extend this starter kit to build your web or mobile application. You can add new pages, components, styles, and functionality as needed. Be sure to consult the documentation for Ionic, Vite, Tailwind CSS, and Konsta UI to leverage their features effectively.
 
-##Customization
+## Customization
 
 You can customize this starter kit by following these steps:
 
